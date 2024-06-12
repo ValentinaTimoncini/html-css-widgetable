@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section.container{
+    margin: 0 auto;
+    border: 20px black;
+    max-width: 400px;
+}
+
+section.box{
+    background-color: #aef7e1;
+}
+
+img.bubble{
+    max-width: 300px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.down{
+    text-align: center;
+}
